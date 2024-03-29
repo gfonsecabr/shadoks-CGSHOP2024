@@ -1,4 +1,4 @@
-This repository contains the source code used by the `Shadoks` team to win first place at the [CG:SHOP 2024 challenge](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2024/#problem-description) about a knpasack polygonal packing problem. More information about the algorithms used is available at the following paper.
+This repository contains the source code used by the `Shadoks` team to win first place at the [CG:SHOP 2024 challenge](https://cgshop.ibr.cs.tu-bs.de/competition/cg-shop-2024/#problem-description) about a knapsack polygonal packing problem. More information about the algorithms used is available at the following paper.
 
 ```
 @inproceedings{Challenge24_1,
